@@ -18,3 +18,6 @@ f_ab_test(page_ver_A, page_ver_B,1.645) #90%
 f_ab_test(page_ver_A, page_ver_B,1.96)  #95%
 f_ab_test(page_ver_A, page_ver_B,2.33)  #98%
 f_ab_test(page_ver_A, page_ver_B,2.58)  #99%
+
+#The second version of landing pages performs slightly better. 
+#The purchase rate for Version B is greater than the purchase rate for Version A.
